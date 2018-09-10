@@ -21,3 +21,5 @@ This is the repository for notes and projects for course [02456 Deep Learning](h
   * Supervised learning (input, output)
   * Well-suited for classification
   * Train conditional model
+
+## Week Two
